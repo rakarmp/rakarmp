@@ -2,7 +2,7 @@
 
 <br />
 <br />
-<h2> Hi There, Welcome to my Github profile!</h2>
+<h2> Hi There, 👌</h2>
 <a href="https://www.linkedin.com/in/raka-abdi-rmp-a0771a245" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 <a href="https://www.instagram.com/rakarmp_fja" target="_blank">
