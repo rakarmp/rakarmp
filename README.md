@@ -14,6 +14,9 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) <br>
 
 ```ts
+let mut spaces = "   ";
+    spaces = spaces.len();
+    
 fn main() {
     let mut x = 5;
     println!("The value of x is: {x}");
