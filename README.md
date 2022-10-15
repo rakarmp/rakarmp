@@ -5,14 +5,13 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white) <br>
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br>
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)<br>
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Laravel](https://img.shields.io/badge/-Laravel-181718?style=flat-square&logo=laravel)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) <br>
 
 ```ts
 fn main() {
@@ -22,6 +21,9 @@ fn main() {
     println!("The value of x is: {x}");
 }
 ```
+
+## 📈 My Progress
+![my github stats](https://github-readme-stats.vercel.app/api?username=grizz12&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=FujaTrust%20Github%20Stats)
 
 ## 🔗 Connect with me:
 <a href="https://www.linkedin.com/in/raka-abdi-rmp-a0771a245" target="_blank">
