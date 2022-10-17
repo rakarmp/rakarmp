@@ -1,11 +1,6 @@
-## Hi, Welcome 🖐️
+## Hi, I'am RakaTrust Apa Kabar 🖐️
 
-```ts
-let guess = match guess.trim().parse() {
-        Ok(_) => 5,
-        Err(_) => "Hi, Welcome",
-    };
-```
+>Lets Begin To Coding
 
 # ⚡ Technologies & Mobile
 
@@ -14,6 +9,7 @@ let guess = match guess.trim().parse() {
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![VueJS](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -22,8 +18,35 @@ let guess = match guess.trim().parse() {
 ![Laravel](https://img.shields.io/badge/-Laravel-181718?style=flat-square&logo=laravel)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) <br>
 
-## 📈 My Progress
-![my github stats](https://github-readme-stats.vercel.app/api?username=grizz12&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=FujaTrust%20Github%20Stats)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const raka = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "PHP"],
+    askMeAbout: ["web dev", "app dev", "relax"],
+    technologies: {
+        backEnd: {
+            js: ["VueJS", "ReactJS(beginner)"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Nginx"],
+        databases: ["mongo", "MySql", "phpmyadmin"],
+        misc: ["Firebase", "php", "SuiteApp"]
+    },
+    architecture: ["SPA Web", "Administrator Web", "Flutter App"],
+    currentFocus: "Learning Js Library",
+    funFact: "Biasa Menggunakan Waktu Penuh Buat Ngoding better mood hehe"
+};
+```
+
+## 📈 Stats
+<a href="https://github.com/grizz12/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizz12&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grizz12&theme=tokyonight" alt="muskanrani" />
+<br/>
+
 
 ## 🔗 Connect with me
 <a href="https://www.linkedin.com/in/raka-abdi-rmp-a0771a245" target="_blank">
