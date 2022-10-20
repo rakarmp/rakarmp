@@ -20,26 +20,30 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-```javascript
-const raka = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "PHP"],
-    askMeAbout: ["web dev", "app dev", "relax"],
-    technologies: {
-        backEnd: {
-            js: ["VueJS", "ReactJS(beginner)"],
+```ts
+export default {
+    data() {
+    return {
+      rakaRmp: [
+        {
+          favorite: "Vue JS,Laravel 8",
+          hobby: "music,coding,think hard",
+          toolsandtechnologies: {
+               ide: "VsCode",
+               extension: "One Dark Pro, Material Icon, Smooth cursor blink"
+          }
+          quoates: {
+               text: "
+                   Ketika Saya Peduli Kepada Seseorang, 
+                   Saya Tidak Pernah Bercanda, 
+                   Begitupun Ketika Saya Pamit
+               "
+          }
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Nginx"],
-        databases: ["mongo", "MySql", "phpmyadmin"],
-        misc: ["Firebase", "php", "SuiteApp"]
-    },
-    architecture: ["SPA Web", "Administrator Web", "Flutter App"],
-    currentFocus: "Learning Js Library",
-    funFact: "Biasa Menggunakan Waktu Penuh Buat Ngoding better mood hehe"
-};
+      ]
+    }
+  }
+}
 ```
 
 ## 📈 Stats
