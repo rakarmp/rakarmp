@@ -1,48 +1,25 @@
-## Hi, I'am RakaTrust Apa Kabar 🖐️
+<div align="center">
 
->Lets Begin To Coding
+## technologiesAndTools
 
-# ⚡ Technologies & Mobile
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![VueJS](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br>
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Laravel](https://img.shields.io/badge/-Laravel-181718?style=flat-square&logo=laravel)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) <br>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/>  &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-```ts
-export default {
-    data() {
-    return {
-      rakaRmp: [
-        {
-          favorite: "Vue JS,Laravel 8",
-          hobby: "music,coding,think hard",
-          toolsandtechnologies: {
-               ide: "VsCode",
-               extension: "One Dark Pro, Material Icon, Smooth cursor blink"
-          }
-          quoates: {
-               text: "
-                   Ketika Saya Peduli Kepada Seseorang, 
-                   Saya Tidak Pernah Bercanda, 
-                   Begitupun Ketika Saya Pamit
-               "
-          }
-        },
-      ]
+```js
+const rakaRmp = {
+    technologies: {
+        language: "React,Next,Vue,Nuxt,Laravel",
+        tools: {
+            codeEditorAndTools: "Vscode,Github,Codespaces,Prettier,Eslint"
+        }
+    },
+    others: {
+        hobby: "Music,Watch Film,",
+        likeIt: {
+            detail: "Solo Learning,Hard Work,Night Work"
+        }
     }
-  }
 }
 ```
 
@@ -52,11 +29,8 @@ export default {
 <br/>
 
 
-## 🔗 Connect with me
-<a href="https://www.linkedin.com/in/raka-abdi-rmp-a0771a245" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<a href="https://www.instagram.com/rakarmp_fja" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-## ❤️ Love My Project
-<a href="https://www.buymeacoffee.com/rakaabdirmp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
