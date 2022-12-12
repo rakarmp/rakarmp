@@ -32,5 +32,7 @@ const rakaRmp = {
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://user-images.githubusercontent.com/83684256/207023078-ae400579-e5e0-45a0-b566-357458ae2035.png" alt="Github Stats" />
+    ![screenshot1-removebg-preview](https://user-images.githubusercontent.com/83684256/207023078-ae400579-e5e0-45a0-b566-357458ae2035.png)
+
 </p>
