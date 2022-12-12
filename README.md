@@ -33,6 +33,4 @@ const rakaRmp = {
 
 <p align="center">
         <img src="https://user-images.githubusercontent.com/83684256/207023078-ae400579-e5e0-45a0-b566-357458ae2035.png" alt="Github Stats" />
-    ![screenshot1-removebg-preview](https://user-images.githubusercontent.com/83684256/207023078-ae400579-e5e0-45a0-b566-357458ae2035.png)
-
 </p>
