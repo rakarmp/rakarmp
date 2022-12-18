@@ -25,12 +25,14 @@ const rakaRmp = {
 
 ## 📈 Stats
 <a href="https://github.com/grizz12/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizz12&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grizz12&theme=tokyonight" alt="muskanrani" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grizz12&theme=tokyonight" alt="RakaTrust" />
 <br/>
 
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://user-images.githubusercontent.com/83684256/207023078-ae400579-e5e0-45a0-b566-357458ae2035.png" alt="Github Stats" />
-</p>
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" alt="SVG" />
+    <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="SVG" />
+    <img src="https://forthebadge.com/images/badges/uses-brains.svg" alt="SVG" /
+</div>
+    <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=grizz12&label=Visitors+Count&color=brightgreen" alt="count"/>
+    </div>
