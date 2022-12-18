@@ -40,8 +40,8 @@ export default potretHidup;
 ```
 
 ## 📈 Stats
-<a href="https://github.com/grizz12/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizz12&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grizz12&theme=tokyonight" alt="RakaTrust" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizz12&layout=compact&theme=ocean_dark&hide_border=true" />
+<img width="50%" src="https://streak-stats.demolab.com?user=grizz12&theme=neon-palenight&hide_border=true" alt="RakaTrust" />
 <br/>
 
 <div align="center">
