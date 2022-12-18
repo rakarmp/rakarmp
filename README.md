@@ -19,10 +19,10 @@
 import { useState, useEffect } from 'react';
 
 const potretHidup = () => {
-   const [loading, setLoading] = useState(false)
+   const [loading, setLoading] = useState(true)
 
    useEffect(() => {
-         setLoading(true)
+         setLoading(false)
    }, [])
 
    if (loading) {
