@@ -40,7 +40,7 @@ export default potretHidup;
 ```
 
 ## 📈 Stats
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizz12&layout=compact&theme=ocean_dark&hide_border=true" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizz12&layout=compact&theme=material-palenight&hide_border=true" />
 <img width="50%" src="https://streak-stats.demolab.com?user=grizz12&theme=neon-palenight&hide_border=true" alt="RakaTrust" />
 <br/>
 
