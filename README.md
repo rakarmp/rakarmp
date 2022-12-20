@@ -45,9 +45,10 @@ export default potretHidup;
 <br/>
 
 <div align="center">
-    <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" alt="SVG" />
-    <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="SVG" />
-    <img src="https://forthebadge.com/images/badges/uses-brains.svg" alt="SVG" /
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="SVG" />
+    <img src="https://forthebadge.com/images/badges/built-with-swag.svg" alt="SVG" />
+    <img src="https://forthebadge.com/images/badges/uses-brains.svg" alt="SVG" />
+   <img src="https://forthebadge.com/images/badges/for-you.svg" alt="SVG" />
 </div>
     <div align="center">
         <img src="https://komarev.com/ghpvc/?username=grizz12&label=Visitors+Count&color=brightgreen" alt="count"/>
