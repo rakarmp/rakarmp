@@ -5,7 +5,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" style="height: 4rem"/>
 <img src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS"  style="height: 4rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
@@ -17,16 +16,17 @@
 
 ```js
 import { useState, useEffect } from 'react';
+import Loading from 'Loading';
 
-const potretHidup = () => {
-   const [loading, setLoading] = useState(true)
+const welcomeIndex = () => {
+   const [loading, setLoading] = useState(true);
 
    useEffect(() => {
          setLoading(false)
    }, [])
 
    if (loading) {
-      return <LoadingTerus />
+      return <Loading />
     }
     
     return(
@@ -36,7 +36,7 @@ const potretHidup = () => {
     )
  }
  
-export default potretHidup;
+export default welcomeIndex;
 ```
 
 ## 📈 Stats
