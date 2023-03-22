@@ -15,31 +15,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> OutOfTheBox...
 
-```js
-import { useState, useEffect } from 'react';
-import Loading from 'Loading';
-
-const welcomeIndex = () => {
-   const [loading, setLoading] = useState(true);
-
-   useEffect(() => {
-         setLoading(false)
-   }, [])
-
-   if (loading) {
-      return <Loading />
-    }
-    
-    return(
-        <div>
-           <p>Raka Abdi Reza Maulana Putra</p>
-        </div>
-    )
- }
- 
-export default welcomeIndex;
-```
-
 ## 📈 Stats
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizz12&layout=compact&theme=material-palenight&hide_border=true" />
 <img width="50%" src="https://streak-stats.demolab.com?user=grizz12&theme=neon-palenight&hide_border=true" alt="RakaTrust" />
