@@ -16,8 +16,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> OutOfTheBox...
 
 ## 📈 Stats
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grizz12&layout=compact&theme=material-palenight&hide_border=true" />
-<img width="50%" src="https://streak-stats.demolab.com?user=grizz12&theme=neon-palenight&hide_border=true" alt="RakaTrust" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakarmp&layout=compact&theme=material-palenight&hide_border=true" />
+<img width="50%" src="https://streak-stats.demolab.com?user=rakarmp&theme=neon-palenight&hide_border=true" alt="RakaTrust" />
 <br/>
 
 <div align="center">
@@ -27,5 +27,5 @@
    <img src="https://forthebadge.com/images/badges/for-you.svg" alt="SVG" />
 </div>
     <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=grizz12&label=Visitors+Count&color=brightgreen" alt="count"/>
+        <img src="https://komarev.com/ghpvc/?username=rakarmp&label=Visitors+Count&color=brightgreen" alt="count"/>
     </div>
