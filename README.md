@@ -5,7 +5,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/8ba09ea6-7ec2-4b08-8224-13238f8b4fd4.svg)](https://wakatime.com/@8ba09ea6-7ec2-4b08-8224-13238f8b4fd4)
 
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://zyarexx.vercel.app">Zyarexx (Rakarmp)</a></b>
@@ -36,7 +35,6 @@
 </p>
 <br />
 
-<!-- About Section -->
  # About me
  
 <p>
@@ -71,33 +69,8 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
-
-<p align="left">
-  <a href="https://github.com/rakarmp?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/rakarmp">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakarmp&theme=radical&border=7F3FBF&background=0D1117" alt="Rakarmp GitHub streak"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/rakarmp">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakarmp&theme=radical" alt="Rakarmp GitHub Contribution"/>
   </a>
 </p>
-
-<a> 
-    <a href="https://github.com/rakarmp"><img alt="Rakarmp Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rakarmp&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/rakarmp"><img alt="Rakarmp Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rakarmp&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-[![Rakarmp github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakarmp)](https://github.com/ashutosh00710/github-readme-activity-graph)
