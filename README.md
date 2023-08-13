@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/8ba09ea6-7ec2-4b08-8224-13238f8b4fd4.svg)](https://wakatime.com/@8ba09ea6-7ec2-4b08-8224-13238f8b4fd4)
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp> Hey There!, I am &gt;
                 <b><a target="_blank" href="https://zyarexx.vercel.app">Zyarexx (Rakarmp)</a></b>
         </samp>
 </h3>
@@ -14,9 +14,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://t.me/zyarexx">「 On Telegram 」</a>
+    <a href="https://t.me/zyarexx">「 Raka Abdi Reza Maulana Putra 」</a>
     <br>
-    「 I am a Web Developer, And Any Tech from <b>Indonesia</b> 」
+    「 🌐 Web Developer | Tech Enthusiast 🖥️ 」
     <br>
     <br>
   </samp>
@@ -24,7 +24,7 @@
 
 <p align="center">
  <a href="https://rakarmp-zyarexx.vercel.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rakarmp" />
+  <img src="https://img.shields.io/badge/Connect With Me-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rakarmp" />
  </a>
  <a href="https://instagram.com/rakarmp_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rakarmp" />
@@ -39,12 +39,12 @@
  
 <p>
  <img align="right" width="350" src="https://avatars.githubusercontent.com/u/83684256?v=4" alt="Coding gif" />
-  
- ✌️ &emsp; Love the world of technology <br/><br/>
- ❤️ &emsp; Writing code from my mind<br/><br/>
- 📧 &emsp; Contact me anytime: rakaabdirmp@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/rakarmp/rakarmp/issues)
 
+🔸 Less than a year's experience in the dynamic world of web development, always seeking pieces of codes that make the internet beautiful. <br/><br/>
+🔸 Supercharged with boundless enthusiasm towards everything tech. Always on the pulse of latest technologies, never missing a trend. <br/><br/>
+🔸 Decoding programming languages is my caffeine – the secret power behind my sleepless nights and code-filled days. <br/><br/>
+🔸 Unwind with tantalizing tunes from my guitar 🎸 after a long day of pixels and algorithms. Music is the perfect complement to my logic-filled world. <br/><br/>
+💪 Continuously growing, learning, and exploring fresh possibilities in the digital realm. Code is poetry, come join my verse!
 </p>
 
 <br/>
