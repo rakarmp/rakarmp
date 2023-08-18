@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/8ba09ea6-7ec2-4b08-8224-13238f8b4fd4.svg)](https://wakatime.com/@8ba09ea6-7ec2-4b08-8224-13238f8b4fd4)
 
 <h3 align="center">
-        <samp> Hey There!, I am &gt;
+        <samp> HEY THERE!, I AM &gt;
                 <b><a target="_blank" href="https://zyarexx.vercel.app">Zyarexx (Rakarmp)</a></b>
         </samp>
 </h3>
@@ -14,9 +14,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://t.me/zyarexx">「 Raka Abdi Reza Maulana Putra 」</a>
+    <a href="https://t.me/zyarexx">「 𝑅𝒶𝓀𝒶 𝒜𝒷𝒹𝒾 𝑅𝑒𝓏𝒶 𝑀𝒶𝓊𝓁𝒶𝓃𝒶 𝒫𝓊𝓉𝓇𝒶 」</a>
     <br>
-    「 🌐 Web Developer | Tech Enthusiast 🖥️ 」
+    「 🌐 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚃𝚎𝚌𝚑 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 🖥️ 」
     <br>
     <br>
   </samp>
@@ -35,23 +35,19 @@
 </p>
 <br />
 
- # About me
- 
+ # Ａｂｏｕｔ Ｍｅ
+                                                                                
 <p>
  <img align="right" width="350" src="https://avatars.githubusercontent.com/u/83684256?v=4" alt="Coding gif" />
 
-🔸 Less than a year's experience in the dynamic world of web development, always seeking pieces of codes that make the internet beautiful. <br/><br/>
-🔸 Supercharged with boundless enthusiasm towards everything tech. Always on the pulse of latest technologies, never missing a trend. <br/><br/>
-🔸 Decoding programming languages is my caffeine – the secret power behind my sleepless nights and code-filled days. <br/><br/>
-🔸 Unwind with tantalizing tunes from my guitar 🎸 after a long day of pixels and algorithms. Music is the perfect complement to my logic-filled world. <br/><br/>
-💪 Continuously growing, learning, and exploring fresh possibilities in the digital realm. Code is poetry, come join my verse!
+🔸 ʟᴇꜱꜱ ᴛʜᴀɴ ᴀ ʏᴇᴀʀ'ꜱ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴛʜᴇ ᴅʏɴᴀᴍɪᴄ ᴡᴏʀʟᴅ ᴏꜰ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴀʟᴡᴀʏꜱ ꜱᴇᴇᴋɪɴɢ ᴘɪᴇᴄᴇꜱ ᴏꜰ ᴄᴏᴅᴇꜱ ᴛʜᴀᴛ ᴍᴀᴋᴇ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ʙᴇᴀᴜᴛɪꜰᴜʟ. <br/><br/>
+🔸 ꜱᴜᴘᴇʀᴄʜᴀʀɢᴇᴅ ᴡɪᴛʜ ʙᴏᴜɴᴅʟᴇꜱꜱ ᴇɴᴛʜᴜꜱɪᴀꜱᴍ ᴛᴏᴡᴀʀᴅꜱ ᴇᴠᴇʀʏᴛʜɪɴɢ ᴛᴇᴄʜ. ᴀʟᴡᴀʏꜱ ᴏɴ ᴛʜᴇ ᴘᴜʟꜱᴇ ᴏꜰ ʟᴀᴛᴇꜱᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ, ɴᴇᴠᴇʀ ᴍɪꜱꜱɪɴɢ ᴀ ᴛʀᴇɴᴅ. <br/><br/>
+🔸 ᴅᴇᴄᴏᴅɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ ɪꜱ ᴍʏ ᴄᴀꜰꜰᴇɪɴᴇ – ᴛʜᴇ ꜱᴇᴄʀᴇᴛ ᴘᴏᴡᴇʀ ʙᴇʜɪɴᴅ ᴍʏ ꜱʟᴇᴇᴘʟᴇꜱꜱ ɴɪɢʜᴛꜱ ᴀɴᴅ ᴄᴏᴅᴇ-ꜰɪʟʟᴇᴅ ᴅᴀʏꜱ. <br/><br/>
+🔸 ᴜɴᴡɪɴᴅ ᴡɪᴛʜ ᴛᴀɴᴛᴀʟɪᴢɪɴɢ ᴛᴜɴᴇꜱ ꜰʀᴏᴍ ᴍʏ ɢᴜɪᴛᴀʀ 🎸 ᴀꜰᴛᴇʀ ᴀ ʟᴏɴɢ ᴅᴀʏ ᴏꜰ ᴘɪxᴇʟꜱ ᴀɴᴅ ᴀʟɢᴏʀɪᴛʜᴍꜱ. ᴍᴜꜱɪᴄ ɪꜱ ᴛʜᴇ ᴘᴇʀꜰᴇᴄᴛ ᴄᴏᴍᴘʟᴇᴍᴇɴᴛ ᴛᴏ ᴍʏ ʟᴏɢɪᴄ-ꜰɪʟʟᴇᴅ ᴡᴏʀʟᴅ. <br/><br/>
+💪 ᴄᴏɴᴛɪɴᴜᴏᴜꜱʟʏ ɢʀᴏᴡɪɴɢ, ʟᴇᴀʀɴɪɴɢ, ᴀɴᴅ ᴇxᴘʟᴏʀɪɴɢ ꜰʀᴇꜱʜ ᴘᴏꜱꜱɪʙɪʟɪᴛɪᴇꜱ ɪɴ ᴛʜᴇ ᴅɪɢɪᴛᴀʟ ʀᴇᴀʟᴍ. ᴄᴏᴅᴇ ɪꜱ ᴘᴏᴇᴛʀʏ, ᴄᴏᴍᴇ ᴊᴏɪɴ ᴍʏ ᴠᴇʀꜱᴇ!
 </p>
 
-<br/>
-<br/>
-<br/>
-
-## Use To Code
+## Ｕｓｅ Ｔｏ Ｃｏｄｅ
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -69,8 +65,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/rakarmp">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakarmp&theme=radical" alt="Rakarmp GitHub Contribution"/>
-  </a>
-</p>
+<div align="center">
+  <samp>𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑷𝒓𝒐𝒇𝒊𝒍𝒆💥</samp> <br />
+</div>
