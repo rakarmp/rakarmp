@@ -19,7 +19,7 @@
  # Ａｂｏｕｔ Ｍｅ
                                                                                 
 <p>
- <img align="right" width="350" src="https://avatars.githubusercontent.com/u/83684256?v=4" alt="Coding gif" />
+ <img align="right" width="350" src="https://rakarmp.github.io/Mycloud/KEQAR1Q3Hko2YvjrFfZRg.png!mfit_w750_h750_jpg.png" alt="Coding gif" />
 
 👋 Hello, Earthlings! 👽 I'm a ProgrammingJunkie 🤓, TechEnthusiast 🚀, and WebDeveloperSpider 🕷️ spinning intricate webs of code.
 ```
