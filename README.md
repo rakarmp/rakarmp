@@ -1,21 +1,4 @@
 
-<h3 align="center">
-        <samp> HEY THERE!, I AM &gt;
-                <b><a target="_blank" href="https://zyarexx.vercel.app">Zyarexx (Rakarmp)</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    <a href="https://t.me/zyarexx">「 𝑅𝒶𝓀𝒶 𝒜𝒷𝒹𝒾 𝑅𝑒𝓏𝒶 𝑀𝒶𝓊𝓁𝒶𝓃𝒶 𝒫𝓊𝓉𝓇𝒶 」</a>
-    <br>
-    「 🌐 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚃𝚎𝚌𝚑 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 🖥️ 」
-    <br>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
  <a href="https://rakarmp-zyarexx.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Connect With Me-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rakarmp" />
@@ -38,11 +21,13 @@
 <p>
  <img align="right" width="350" src="https://avatars.githubusercontent.com/u/83684256?v=4" alt="Coding gif" />
 
-🔸 ʟᴇꜱꜱ ᴛʜᴀɴ ᴀ ʏᴇᴀʀ'ꜱ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴛʜᴇ ᴅʏɴᴀᴍɪᴄ ᴡᴏʀʟᴅ ᴏꜰ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴀʟᴡᴀʏꜱ ꜱᴇᴇᴋɪɴɢ ᴘɪᴇᴄᴇꜱ ᴏꜰ ᴄᴏᴅᴇꜱ ᴛʜᴀᴛ ᴍᴀᴋᴇ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ʙᴇᴀᴜᴛɪꜰᴜʟ. <br/><br/>
-🔸 ꜱᴜᴘᴇʀᴄʜᴀʀɢᴇᴅ ᴡɪᴛʜ ʙᴏᴜɴᴅʟᴇꜱꜱ ᴇɴᴛʜᴜꜱɪᴀꜱᴍ ᴛᴏᴡᴀʀᴅꜱ ᴇᴠᴇʀʏᴛʜɪɴɢ ᴛᴇᴄʜ. ᴀʟᴡᴀʏꜱ ᴏɴ ᴛʜᴇ ᴘᴜʟꜱᴇ ᴏꜰ ʟᴀᴛᴇꜱᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ, ɴᴇᴠᴇʀ ᴍɪꜱꜱɪɴɢ ᴀ ᴛʀᴇɴᴅ. <br/><br/>
-🔸 ᴅᴇᴄᴏᴅɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ ɪꜱ ᴍʏ ᴄᴀꜰꜰᴇɪɴᴇ – ᴛʜᴇ ꜱᴇᴄʀᴇᴛ ᴘᴏᴡᴇʀ ʙᴇʜɪɴᴅ ᴍʏ ꜱʟᴇᴇᴘʟᴇꜱꜱ ɴɪɢʜᴛꜱ ᴀɴᴅ ᴄᴏᴅᴇ-ꜰɪʟʟᴇᴅ ᴅᴀʏꜱ. <br/><br/>
-🔸 ᴜɴᴡɪɴᴅ ᴡɪᴛʜ ᴛᴀɴᴛᴀʟɪᴢɪɴɢ ᴛᴜɴᴇꜱ ꜰʀᴏᴍ ᴍʏ ɢᴜɪᴛᴀʀ 🎸 ᴀꜰᴛᴇʀ ᴀ ʟᴏɴɢ ᴅᴀʏ ᴏꜰ ᴘɪxᴇʟꜱ ᴀɴᴅ ᴀʟɢᴏʀɪᴛʜᴍꜱ. ᴍᴜꜱɪᴄ ɪꜱ ᴛʜᴇ ᴘᴇʀꜰᴇᴄᴛ ᴄᴏᴍᴘʟᴇᴍᴇɴᴛ ᴛᴏ ᴍʏ ʟᴏɢɪᴄ-ꜰɪʟʟᴇᴅ ᴡᴏʀʟᴅ. <br/><br/>
-💪 ᴄᴏɴᴛɪɴᴜᴏᴜꜱʟʏ ɢʀᴏᴡɪɴɢ, ʟᴇᴀʀɴɪɴɢ, ᴀɴᴅ ᴇxᴘʟᴏʀɪɴɢ ꜰʀᴇꜱʜ ᴘᴏꜱꜱɪʙɪʟɪᴛɪᴇꜱ ɪɴ ᴛʜᴇ ᴅɪɢɪᴛᴀʟ ʀᴇᴀʟᴍ. ᴄᴏᴅᴇ ɪꜱ ᴘᴏᴇᴛʀʏ, ᴄᴏᴍᴇ ᴊᴏɪɴ ᴍʏ ᴠᴇʀꜱᴇ!
+👋 Hello, Earthlings! 👽 I'm a ProgrammingJunkie 🤓, TechEnthusiast 🚀, and WebDeveloperSpider 🕷️ spinning intricate webs of code.
+```
+if (you.like(my.work)) {
+  💌 let's.collaborate();
+}
+```
+👉 Check and connect with me 🏃‍♂️👉 <a href="https://rakarmp.rf.gd">here</a>. Let's make something awesome happen! 🎆
 </p>
 
 ## Ｕｓｅ Ｔｏ Ｃｏｄｅ
