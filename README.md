@@ -1,6 +1,6 @@
 
 <p align="center">
- <a href="https://rakarmp-zyarexx.vercel.app" target="blank">
+ <a href="https://zyarexx.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Connect With Me-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rakarmp" />
  </a>
  <a href="https://instagram.com/rakarmp_" target="_blank">
@@ -21,7 +21,7 @@
 <p>
  <img align="right" width="350" src="https://rakarmp.github.io/Mycloud/KEQAR1Q3Hko2YvjrFfZRg.png!mfit_w750_h750_jpg.png" alt="Coding gif" />
 
-👋 Hello, Earthlings! 👽 I'm a ProgrammingJunkie 🤓, TechEnthusiast 🚀, and WebDeveloperSpider 🕷️ spinning intricate webs of code.
+👋 Hello, Earthlings! i am human not robot😂
 ```
 if (you.like(my.work)) {
   💌 let's.collaborate();
@@ -48,6 +48,7 @@ if (you.like(my.work)) {
   <code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></code>
   <code><img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCode"/></code>
   <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
+ <code><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/></code>
 </p>
 
 ```text
@@ -55,5 +56,6 @@ if (you.like(my.work)) {
 Linux  █████████████████████████  100.00 % 
 ```
 <div align="center">
-  <samp>𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑷𝒓𝒐𝒇𝒊𝒍𝒆💥</samp> <br />
+  <samp>"The most valuable code is the code that doesn't need to be written."</samp> <br />
+ <samp> - W. J. Clinton</samp>
 </div>
