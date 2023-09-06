@@ -23,9 +23,23 @@
 
 👋 Hello, Earthlings! i am human not robot😂
 ```
-if (you.like(my.work)) {
-  💌 let's.collaborate();
+package main
+
+import "fmt"
+
+func main() {
+	var answer string
+
+	fmt.Print("You Like My Work (y/n): ")
+	fmt.Scanln(&answer)
+
+	if answer == "y" {
+		fmt.Println("Thank You...")
+	} else {
+		fmt.Println("Ok Dont Worry")
+	}
 }
+
 ```
 👉 Check and connect with me 🏃‍♂️👉 <a href="https://rakarmp.rf.gd">here</a>. Let's make something awesome happen! 🎆
 </p>
