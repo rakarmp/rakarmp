@@ -1,47 +1,9 @@
+<img src="https://i.postimg.cc/ThMHS6XT/rakarmp.png"/>
 
-<p align="center">
- <a href="https://zyarexx.vercel.app" target="blank">
-  <img src="https://img.shields.io/badge/Connect With Me-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rakarmp" />
- </a>
- <a href="https://instagram.com/rakarmp_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rakarmp" />
- </a> 
- <a href="https://t.me/zyarexx" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-20BEFF?&style=for-the-badge&logo=telegram&logoColor=white" alt="rakarmp"  />
-  </a> 
-</br>
-  <a href="https://komarev.com/ghpvc/?username=rakarmp">
-  <img src="https://komarev.com/ghpvc/?username=rakarmp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-</p>
-<br />
-
- # Ａｂｏｕｔ Ｍｅ
+ # Ａｂｏｕｔ Ｍｅ 
                                                                                 
 <p>
- <img align="right" width="350" src="https://rakarmp.github.io/Mycloud/KEQAR1Q3Hko2YvjrFfZRg.png!mfit_w750_h750_jpg.png" alt="Coding gif" />
-
-👋 Hello, Earthlings! i am human not robot😂
-```
-package main
-
-import "fmt"
-
-func main() {
-	var answer string
-
-	fmt.Print("You Like My Work (y/n): ")
-	fmt.Scanln(&answer)
-
-	if answer == "y" {
-		fmt.Println("Thank You...")
-	} else {
-		fmt.Println("Ok Dont Worry")
-	}
-}
-
-```
-👉 Check and connect with me 🏃‍♂️👉 <a href="https://rakarmp.rf.gd">here</a>. Let's make something awesome happen! 🎆
+Hi there!👋 I'm a fresh graduate🎓who's just plunged into the exciting world of web development💻. A huge fan of open source, I learn, build, and occasionally stumble in the realm of code. Let's learn and grow together.
 </p>
 
 ## Ｕｓｅ Ｔｏ Ｃｏｄｅ
@@ -63,6 +25,22 @@ func main() {
   <code><img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCode"/></code>
   <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
  <code><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/></code>
+</p>
+
+<p align="center">
+ <a href="https://zyarexx.vercel.app" target="blank">
+  <img src="https://img.shields.io/badge/Connect With Me-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rakarmp" />
+ </a>
+ <a href="https://instagram.com/rakarmp_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rakarmp" />
+ </a> 
+ <a href="https://t.me/zyarexx" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-20BEFF?&style=for-the-badge&logo=telegram&logoColor=white" alt="rakarmp"  />
+  </a> 
+</br>
+  <a href="https://komarev.com/ghpvc/?username=rakarmp">
+  <img src="https://komarev.com/ghpvc/?username=rakarmp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 </p>
 
 ```text
