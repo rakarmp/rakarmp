@@ -3,7 +3,7 @@
  # Ａｂｏｕｔ Ｍｅ 
                                                                                 
 <p>
-Hi there!👋 I'm a fresh graduate🎓who's just plunged into the exciting world of web development💻. A huge fan of open source, I learn, build, and occasionally stumble in the realm of code. Let's learn and grow together.
+Hi there!👋 I'm a fresh graduate🎓who's just plunged into the exciting world of web development💻.</br> A huge fan of open source, I learn, build, and occasionally stumble in the realm of code. Let's learn and grow together.
 </p>
 
 ## Ｕｓｅ Ｔｏ Ｃｏｄｅ
