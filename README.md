@@ -45,7 +45,7 @@ func main() {
         Name:   "Raka Abdi Reza Maulana Putra ("良香"),
         Tools:  tools,
         OS:     "Linux (Arch)",
-        GitHub: "https://github.com/your-username",
+        GitHub: "https://github.com/rakarmp",
     }
 
     dev.Introduction()
