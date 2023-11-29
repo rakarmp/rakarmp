@@ -1,60 +1,17 @@
+<div align="center">
+<img src="https://github.com/rakarmp/rakarmp/assets/83684256/acb5eaa9-45f1-4d09-87a2-fa7e540fe35e" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Everyone;Welcome+To+My+Github+Profile+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 Freelance
+    💻 WebDev  
+    📖 Learning How To Rich😎
+    🎮 Music • Games • Anime • Code 
+</pre>
+<br><br><br>
+    
 
-  <img src="https://komarev.com/ghpvc/?username=rakarmp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile visitor" />
+</div>
 
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-    Name   string
-    Tools  []string
-    OS     string
-    GitHub string
-}
-
-func (dev Developer) Introduction() {
-    fmt.Printf("Hi there!👋 I'm %s, a fresh graduate🎓 who's just plunged into the exciting world of web development💻.\n", dev.Name)
-    fmt.Println("A huge fan of open source, I learn, build, and occasionally stumble in the realm of code.")
-    fmt.Println("Let's learn and grow together.")
-}
-
-func (dev Developer) DisplayTools() {
-    fmt.Println("Tools and languages I use:")
-    for _, tool := range dev.Tools {
-        fmt.Println("-", tool)
-    }
-}
-
-func (dev Developer) DisplayOS() {
-    fmt.Println("Operating System:", dev.OS)
-}
-
-func (dev Developer) DisplayGitHub() {
-    fmt.Println("Find me on GitHub:", dev.GitHub)
-}
-
-func main() {
-    tools := []string{
-                      "Express", "JavaScript", "TypeScript", "Bash", "React",
-                      "Node.js", "Next.js", "MongoDB", "HTML", "CSS", "Tailwind CSS",
-                      "Bootstrap", "Markdown", "VSCode", "Git", "Golang",
-                     }
-
-    dev := Developer{
-        Name:   "Raka Abdi Reza Maulana Putra ("良香"),
-        Tools:  tools,
-        OS:     "Linux (Arch)",
-        GitHub: "https://github.com/rakarmp",
-    }
-
-    dev.Introduction()
-    fmt.Println()
-    dev.DisplayTools()
-    fmt.Println()
-    dev.DisplayOS()
-    fmt.Println()
-    dev.DisplayGitHub()
-}
-
-```
+[![](https://img.shields.io/badge/Instagram-fccc63)](https://www.instagram.com/ruminass_)
+[![](https://img.shields.io/badge/Telegram-6364ff)](https://t.me/Zyarexx)
