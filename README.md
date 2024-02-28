@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Kotlin, etc.**
 
-- 👯 I’m looking to collaborate on [RiProG-AI](https://github.com/RiProG-id/RiProG-AI)
-
 - 📫 How to reach me **rakaabdirmp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
