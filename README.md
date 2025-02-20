@@ -14,5 +14,5 @@
     
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](http://t.me/Zyarexx)
 [![](https://img.shields.io/badge/Mastodon-6364ff)](https://mastodon.social/@rakarmp_rexx)
-[![](https://img.shields.io/badge/Instagram-ff66ab)](https://instagram.com/rakarmp)
+[![](https://www.codewars.com/users/rakarmp/badges/micro)](https://www.codewars.com/users/rakarmp)
 </div>
